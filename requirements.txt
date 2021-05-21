@@ -68,7 +68,7 @@ six==1.11.0
 sklearn==0.0
 stevedore==1.29.0
 tensorboard==1.9.0
-tensorflow==1.9.0
+tensorflow==2.5.0
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
